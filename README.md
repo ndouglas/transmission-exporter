@@ -44,7 +44,7 @@ clients:
 
 ### Kubernetes (Prometheus)
 
-A sample kubernetes manifest is available in [example/kubernetes](https://github.com/metalmatze/transmission-exporter/blob/master/examples/kubernetes/docker-compose.yml)
+A sample kubernetes manifest is available in [examples/kubernetes](./examples/kubernetes)
 
 Please run: `kubectl apply -f examples/kubernetes/transmission.yml`
 
